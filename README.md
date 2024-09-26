@@ -1,5 +1,5 @@
 # Useful links
-Useful links, cool stuffs and everything that I don't want to forget.
+Useful links, cool stuffs and everything that I don't want to forget. I hope that will help you too.
 
 ## AI
 ### Art
