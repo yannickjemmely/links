@@ -1,7 +1,6 @@
 # Useful links
 Useful links, cool stuffs and everything that I don't want to forget.
 
-
 ## AI
 ### Art
 - https://stable-diffusion-art.com/
@@ -10,5 +9,5 @@ Useful links, cool stuffs and everything that I don't want to forget.
 - SwarmUI: https://github.com/Stability-AI/StableSwarmUI
 - Automatic1111: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 ## Web development
-## IoT
+## Data Analytics
 ## 3D Printing
