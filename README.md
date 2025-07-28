@@ -11,3 +11,6 @@ Useful links, cool stuffs and everything that I don't want to forget. I hope tha
 ## Web development
 ## Data Analytics
 ## 3D Printing
+## Iot
+### Raspberry
+- Airplay2 receiver https://github.com/mikebrady/shairport-sync
